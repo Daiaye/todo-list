@@ -57,3 +57,13 @@ h1, h2, h3, h4, h5, h6 {
 body {
     background-color: aqua;
 }
+
+.todo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid;
+  gap: 1rem;
+  max-width: 70vw;
+}
+
